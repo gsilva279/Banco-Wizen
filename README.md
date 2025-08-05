@@ -74,4 +74,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 [José Gilvanilson] - josegilvanilson2020@gmail.com
 
-Link do Projeto: https://github.com/seu-usuario/banco-digital
+Link do Projeto: https://github.com/gsilva279/banco-digital
